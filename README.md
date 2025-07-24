@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Azure, AWS, Linux, Maven, Terraform, CICD**
 
-- 📫 How to reach me **udhaya333tn@gmail.com**
+- 📫 How to reach me **udhayakumar.s5@cognizant.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
